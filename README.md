@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OrlandoMts
+- 👋 Hi, I’m Orlando Montes
 - 👀 I’m interested in connect with a community to learn more
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on web development projects 
